@@ -32,6 +32,7 @@ The dataset includes:
 •Labels (spam or ham)
 
 Methodology:
+
 1.Load the email dataset.
 2.Convert text data into numerical features using CountVectorizer.
 3.Split the dataset into training and testing sets.
