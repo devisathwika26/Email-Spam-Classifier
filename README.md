@@ -34,10 +34,15 @@ The dataset includes:
 Methodology:
 
 1.Load the email dataset.
+
 2.Convert text data into numerical features using CountVectorizer.
+
 3.Split the dataset into training and testing sets.
+
 4.Train a Naive Bayes Classifier model.
+
 5.Predict whether an email is spam or not spam.
+
 6.Evaluate model performance using accuracy and classification report.
 
 Output:
